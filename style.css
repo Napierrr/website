@@ -1,0 +1,25 @@
+body {
+    background-image: url("bg.jpg");
+    background-repeat: no-repaet;
+    background-size: cover;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Amatic SC', cursive;
+    font-size: 75px;
+    color: rgb(131, 195, 255);
+}
+
+h6 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 42px;
+    color: white;
+}
+
+p {
+    font-family: 'Amatic SC', cursive;
+    font-size: 42px;
+    color: rgb(131, 195, 255);
+}
+

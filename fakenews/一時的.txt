@@ -1,0 +1,21 @@
+<div class="container">
+		<div class="row">
+			<div class="col-508 col-push-270">
+				<section>
+					<div class="topnews">
+						<a href="20111213.html">
+							<h2>「富士山２つ消滅、謎の塔出現」原因を捜索中</h2>
+							<img src="images/nazonotou.jpg">
+							"
+							             山梨ー－静岡の境に位置する日本最大の山脈、富士山脈の山３つの内２つが突如として消滅したー－ 今日の明け方6時50分頃、突如として富士山が二つ姿を消した。そしてその後分後に謎の塔が現れた。地元の人は「一体何が起きたのかわからない。」「この世の終わりを感じた。」と混乱した様子がうか...
+										             "
+							<span class="readmore">
+								"続きを読む "
+								<i class="fa fa-angle-double-right"></i>
+							</span>
+						</a>
+					</div>
+				</section>
+			</div>
+		</div>
+	</div>
